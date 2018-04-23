@@ -1,0 +1,23 @@
+{
+  "name": "react-stepzilla-redux-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "joi": "13.2.0",
+    "joi-validation-strategy": "0.3.3",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "react-stepzilla-redux": "0.0.3",
+    "react-validation-mixin": "5.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
